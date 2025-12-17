@@ -86,11 +86,38 @@ Construímos e modernizamos aplicações web e mobile, utilizando metodologias �
 
 ---
 
-## 📊 Estatísticas da Organização
+## 📊 Minhas estatísticas no GitHub:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ntidi-holding&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntidi-holding&layout=compact&langs_count=8&theme=tokyonight"/>
+  <a href="https://github.com/Victorkaue333">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victorkaue333&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffd700&icon_color=ffd700&text_color=c9d1d9"/>
+  </a>
+  <a href="https://github.com/Victorkaue333">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorkaue333&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffd700&text_color=c9d1d9"/>
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <a href="https://github.com/Victorkaue333">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Victorkaue333&theme=tokyonight&hide_border=true&background=0d1117&ring=ffd700&fire=ffd700&currStreakLabel=ffd700" alt="GitHub Streak"/>
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Victorkaue333&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ffd700&line=ffd700&point=c9d1d9" alt="Contribution Graph"/>
+</div>
+
+### 🏆 Victor Kauê (Victorkaue333)
+
+<div align="center">
+  
+📊 **228 Contributions in 2025**  
+📚 **31 Public Repos**  
+⏰ **Joined GitHub 8 months ago**  
+📧 **kaue.alves.pg@gmail.com**
+
 </div>
 
 ---
